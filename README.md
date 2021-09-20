@@ -1,6 +1,6 @@
 # Crawler for STJ - Supremo tribunal de justiça
 
-This bot was made to scrape judgment data from the source STJ. It didn't create the logic for checking if there is next page or if there is data, because the main purpose of this project was to learn remember the selenium basics.
+This bot was made to scrape judgment data from the source STJ. It didn't create the logic for checking if there is next page or if there is data, because the main purpose of this project was to remember the selenium basics.
 
 # Flow
 
